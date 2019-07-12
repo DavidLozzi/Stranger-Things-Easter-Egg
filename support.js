@@ -1,7 +1,7 @@
 // just call window.upsideDown() and enjoy!
 
 window.upsideDown = () => {
-    const music = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/161676/music.mp3');
+    const music = new Audio('https://raw.githubusercontent.com/DavidLozzi/Stranger-Things-Easter-Egg/master/music.mp3');
     music.play();
 
     const body = document.getElementsByTagName('body')[0];
