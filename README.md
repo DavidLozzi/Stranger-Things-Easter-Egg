@@ -7,6 +7,14 @@ Download support.js, reference it on your page.
 ## How to Use
 Determine the best place to trigger the Easter Egg. I put it on a handler on the search solution I'm working on. If the user searches for `Stranger Things` it triggers. The type of system I'm working on, that will never happen. I also ensure that it has to be case sensitive, so users can bypass it if desired.
 
+### To Start the Fun
+
+Call `window.upsideDown.start()` and watch!
+
+You can call `window.upsideDown.stop()` to stop and reset the page.
+
+You can call `window.upsideDown.getStatus()` to get the status. 
+
 ## Learn More and See it in Action
 Check out my blog here to see it in action: https://davidlozzi.com/2019/07/12/my-first-easter-egg-the-upside-down-from-stranger-things/
 
