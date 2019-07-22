@@ -31,6 +31,4 @@ Check out my blog here to see it in action: https://davidlozzi.com/2019/07/12/my
 ## What's next?
 I'd like to see about:
 * npm project to easily pull into any project
-* add the Mind Flayer image in the background as it rotates
 * the site remains usable when it's done except for scrolling, can't scroll up or down (or down or up)
-* get rid of the scroll bars when it rotates
